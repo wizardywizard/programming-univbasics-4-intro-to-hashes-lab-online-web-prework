@@ -1,5 +1,5 @@
 def new_hash
-  # return an empty hash
+  fish = 
 end
 
 def my_hash
