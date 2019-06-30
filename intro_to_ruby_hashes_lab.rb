@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  pet{ :dog 
+  pet{ :dog => 'bark'}
 end
 
 def pioneer
